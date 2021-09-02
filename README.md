@@ -1,4 +1,4 @@
-#Your Crib's Climate cost
+Your Crib's Climate cost
 
 Climate change is getting worse and it’s starting to affect the places that we live, and where we decide to live is also changing. with the increase of remote work people, especially millennials, are finding they have more freedom to decide where they settle down and buy homes. Investors and pension funds are also buying houses, and everyone is starting to have the same question:
 
