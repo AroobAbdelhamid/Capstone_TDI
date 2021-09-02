@@ -134,8 +134,7 @@ def app():
     st.subheader('Map of Housing Price Changes Around your Zipcode (highlighted with a black circle) over time')
     background, points, point = createmap(X_ypred_avg, singlezip)
     #approx 45 secs to get here 7.31
-    st.altair_chart(background + point )
-    #st.altair_chart(background + points + point )
+    st.altair_chart(background + points + point )
 
 if __name__ == '__main__':
     app()
